@@ -1,5 +1,5 @@
 # 3rd-Team-Project
-These Are My Own Works that can determine whether your dogs are obese or normal
+These Are My Own Works that can determine whether your dogs are obese or normal👦
 
 ## 개발 목적
 - 반려동물 양육인구 증가 및 반려동물의 비만도 문제 제기
@@ -11,3 +11,8 @@ These Are My Own Works that can determine whether your dogs are obese or normal
 - 반려동물 개체별 응용 서비스 개발의 필요성
   - 견종별로 서로 다른 특징을 보이기 때문에 각 견종에 맞는 운동법, 식이조절 방법을 추천하는 추천 시스템 개발의 필요성을 느낌
 
+## 이미지 수집과 레이블링
+- 3만장을 웹 크롤링으로 수집한다.
+  - 이미지를 하나씩 확인하여 6천장의 이미지를 선별한다.
+- 수집된 6천장을 직접 정상과 비만으로 분류한다.
+  - B.C.S (Body Condition Scoring) 기준을 활용한다.
