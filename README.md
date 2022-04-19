@@ -16,3 +16,14 @@ These Are My Own Works that can determine whether your dogs are obese or normal�
   - 이미지를 하나씩 확인하여 6천장의 이미지를 선별한다.
 - 수집된 6천장을 직접 정상과 비만으로 분류한다.
   - B.C.S (Body Condition Scoring) 기준을 활용한다.
+
+## 모델 학습
+
+### TensorFlow CNN
+- 직접 Conv2D층과 MaxPooling을 쌓는다.
+
+### Pytorch
+- Transfer Leraning
+  - resnet에는 18, 34, 50, 101, 152 레이어를 쌓을 수 있다.
+  - 본 학습에선 resnet34 활용한다.
+  - 신경망 층을 전이학습 API가 알아서 구성해준다.
