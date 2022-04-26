@@ -30,3 +30,5 @@ These Are My Own Works that can determine whether your dogs are obese or normal�
   - 신경망 구성 [출처 : https://www.analyticsvidhya.com/blog/2021/09/building-resnet-34-model-using-pytorch-a-guide-for-beginners/]
   
 ![image](https://user-images.githubusercontent.com/95407799/163902795-08680779-6da5-4821-9e40-aefbbaec69a9.png)
+
+## 
