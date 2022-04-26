@@ -32,6 +32,7 @@ These Are My Own Works that can determine whether your dogs are obese or normal�
 ![image](https://user-images.githubusercontent.com/95407799/163902795-08680779-6da5-4821-9e40-aefbbaec69a9.png)
 
 ## BenchMark
+- 이미지를 클릭하면 더 자세히 볼 수 있습니다.
 ### 웰시코기
 ![image](https://user-images.githubusercontent.com/95407799/165305494-96117ef6-9db2-4201-b887-b3dc69dd82f7.png)
 
