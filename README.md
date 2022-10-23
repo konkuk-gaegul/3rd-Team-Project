@@ -27,10 +27,7 @@ These Are My Own Works that can determine whether your dogs are obese or normal�
   - resnet에는 18, 34, 50, 101, 152 레이어를 쌓을 수 있다.
   - 본 학습에선 resnet34 활용한다.
   - 신경망 층을 전이학습 API가 알아서 구성해준다.
-  - 신경망 구성 [출처 : https://www.analyticsvidhya.com/blog/2021/09/building-resnet-34-model-using-pytorch-a-guide-for-beginners/]
   
-![image](https://user-images.githubusercontent.com/95407799/163902795-08680779-6da5-4821-9e40-aefbbaec69a9.png)
-
 ## BenchMark
 - 이미지를 클릭하면 더 자세히 볼 수 있습니다.
 - 다양한 이미지 전처리를 통해 성능을 개선해 나아갔습니다.
